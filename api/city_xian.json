@@ -6,6 +6,8 @@
     "name": "西安",
     "province": "陕西省",
     "summary": "城墙、兵马俑与一碗泡馍的千年古都。",
+    "food": "泡馍要自己掰碎才入味；肉夹馍认准腊汁肉；凉皮配一瓶冰峰；biangbiang 面宽得像裤带。",
+    "spot": "秦始皇兵马俑、西安城墙、回民街",
     "thumb": "img/thumb/xian.jpg",
     "cover": "img/xian.jpg",
     "hot": true,
@@ -17,7 +19,6 @@
       "面食",
       "历史"
     ],
-    "food": "泡馍要自己掰碎才入味；肉夹馍认准腊汁肉；凉皮配一瓶冰峰；biangbiang 面宽得像裤带。",
     "spots": [
       {
         "name": "秦始皇兵马俑",
