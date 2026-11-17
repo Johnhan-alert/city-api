@@ -1,0 +1,44 @@
+{
+  "base": "./api/",
+  "interfaces": [
+    {
+      "name": "城市列表",
+      "path": "api/cities.json",
+      "note": "12 座城市，6 字段"
+    },
+    {
+      "name": "城市详情",
+      "path": "api/city_{id}.json",
+      "note": "id 见列表，多 intro/bestSeason/tags/spots"
+    },
+    {
+      "name": "热门城市",
+      "path": "api/search_hot.json",
+      "note": "hot=true 的 5 座"
+    },
+    {
+      "name": "空结果",
+      "path": "api/search_none.json",
+      "note": "演示空态"
+    },
+    {
+      "name": "业务错误",
+      "path": "api/error_demo.json",
+      "note": "HTTP 200 但 code=1001"
+    }
+  ],
+  "ids": [
+    "beijing",
+    "shanghai",
+    "chengdu",
+    "guangzhou",
+    "shenzhen",
+    "hangzhou",
+    "xian",
+    "chongqing",
+    "changsha",
+    "nanjing",
+    "wuhan",
+    "xiamen"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "code": 0,
+  "message": "ok",
+  "data": {
+    "total": 12,
+    "list": [
+      {
+        "id": "beijing",
+        "name": "北京",
+        "province": "北京市",
+        "summary": "故宫与长城之间的老城，胡同里藏着中轴线。",
+        "cover": "img/beijing.jpg",
+        "hot": true
+      },
+      {
+        "id": "shanghai",
+        "name": "上海",
+        "province": "上海市",
+        "summary": "外滩天际线与弄堂烟火并存的城市。",
+        "cover": "img/shanghai.jpg",
+        "hot": true
+      },
+      {
+        "id": "chengdu",
+        "name": "成都",
+        "province": "四川省",
+        "summary": "火锅、茶馆与熊猫共同组成的慢生活。",
+        "cover": "img/chengdu.jpg",
+        "hot": true
+      },
+      {
+        "id": "guangzhou",
+        "name": "广州",
+        "province": "广东省",
+        "summary": "早茶与骑楼，一座把日子过得很细的城市。",
+        "cover": "img/guangzhou.jpg",
+        "hot": false
+      },
+      {
+        "id": "shenzhen",
+        "name": "深圳",
+        "province": "广东省",
+        "summary": "从小渔村长出的现代海岸线。",
+        "cover": "img/shenzhen.jpg",
+        "hot": false
+      },
+      {
+        "id": "hangzhou",
+        "name": "杭州",
+        "province": "浙江省",
+        "summary": "西湖十景与龙井茶山的江南。",
+        "cover": "img/hangzhou.jpg",
+        "hot": true
+      },
+      {
+        "id": "xian",
+        "name": "西安",
+        "province": "陕西省",
+        "summary": "城墙、兵马俑与一碗泡馍的千年古都。",
+        "cover": "img/xian.jpg",
+        "hot": true
+      },
+      {
+        "id": "chongqing",
+        "name": "重庆",
+        "province": "重庆市",
+        "summary": "立体的山城与滚烫的火锅。",
+        "cover": "img/chongqing.jpg",
+        "hot": true
+      },
+      {
+        "id": "changsha",
+        "name": "长沙",
+        "province": "湖南省",
+        "summary": "湘江边的辣与夜宵烟火。",
+        "cover": "img/changsha.jpg",
+        "hot": false
+      },
+      {
+        "id": "nanjing",
+        "name": "南京",
+        "province": "江苏省",
+        "summary": "六朝烟水与满城梧桐。",
+        "cover": "img/nanjing.jpg",
+        "hot": false
+      },
+      {
+        "id": "wuhan",
+        "name": "武汉",
+        "province": "湖北省",
+        "summary": "长江大桥与过早的热干面。",
+        "cover": "img/wuhan.jpg",
+        "hot": false
+      },
+      {
+        "id": "xiamen",
+        "name": "厦门",
+        "province": "福建省",
+        "summary": "海岛、鼓浪屿与老别墅的慢时光。",
+        "cover": "img/xiamen.jpg",
+        "hot": true
+      }
+    ]
+  }
+}
