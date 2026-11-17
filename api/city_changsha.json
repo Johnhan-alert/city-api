@@ -6,6 +6,8 @@
     "name": "长沙",
     "province": "湖南省",
     "summary": "湘江边的辣与夜宵烟火。",
+    "food": "口味虾配啤酒；臭豆腐外脆内嫩；糖油粑粑甜糯；米粉店早上就排队。",
+    "spot": "橘子洲、岳麓山、文和友",
     "thumb": "img/thumb/changsha.jpg",
     "cover": "img/changsha.jpg",
     "hot": false,
@@ -17,7 +19,6 @@
       "橘子洲",
       "小吃"
     ],
-    "food": "口味虾配啤酒；臭豆腐外脆内嫩；糖油粑粑甜糯；米粉店早上就排队。",
     "spots": [
       {
         "name": "橘子洲",
