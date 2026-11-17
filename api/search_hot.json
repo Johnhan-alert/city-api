@@ -9,6 +9,7 @@
         "name": "北京",
         "province": "北京市",
         "summary": "故宫与长城之间的老城，胡同里藏着中轴线。",
+        "thumb": "img/thumb/beijing.jpg",
         "cover": "img/beijing.jpg",
         "hot": true
       },
@@ -17,6 +18,7 @@
         "name": "上海",
         "province": "上海市",
         "summary": "外滩天际线与弄堂烟火并存的城市。",
+        "thumb": "img/thumb/shanghai.jpg",
         "cover": "img/shanghai.jpg",
         "hot": true
       },
@@ -25,6 +27,7 @@
         "name": "成都",
         "province": "四川省",
         "summary": "火锅、茶馆与熊猫共同组成的慢生活。",
+        "thumb": "img/thumb/chengdu.jpg",
         "cover": "img/chengdu.jpg",
         "hot": true
       },
@@ -33,6 +36,7 @@
         "name": "杭州",
         "province": "浙江省",
         "summary": "西湖十景与龙井茶山的江南。",
+        "thumb": "img/thumb/hangzhou.jpg",
         "cover": "img/hangzhou.jpg",
         "hot": true
       },
@@ -41,6 +45,7 @@
         "name": "西安",
         "province": "陕西省",
         "summary": "城墙、兵马俑与一碗泡馍的千年古都。",
+        "thumb": "img/thumb/xian.jpg",
         "cover": "img/xian.jpg",
         "hot": true
       },
@@ -49,6 +54,7 @@
         "name": "重庆",
         "province": "重庆市",
         "summary": "立体的山城与滚烫的火锅。",
+        "thumb": "img/thumb/chongqing.jpg",
         "cover": "img/chongqing.jpg",
         "hot": true
       },
@@ -57,6 +63,7 @@
         "name": "厦门",
         "province": "福建省",
         "summary": "海岛、鼓浪屿与老别墅的慢时光。",
+        "thumb": "img/thumb/xiamen.jpg",
         "cover": "img/xiamen.jpg",
         "hot": true
       }
