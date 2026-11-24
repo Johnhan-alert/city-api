@@ -1,37 +1,145 @@
 {
-  "code": 0,
-  "message": "ok",
-  "data": {
-    "id": "changsha",
-    "name": "长沙",
-    "province": "湖南省",
-    "summary": "湘江边的辣与夜宵烟火。",
-    "food": "口味虾配啤酒；臭豆腐外脆内嫩；糖油粑粑甜糯；米粉店早上就排队。",
-    "spot": "橘子洲、岳麓山、文和友",
-    "thumb": "img/thumb/changsha.png",
-    "cover": "img/changsha.jpg",
-    "hot": false,
-    "intro": "长沙的白天不算热闹，夜里才真正醒过来：夜宵摊一直摆到凌晨，口味虾、臭豆腐、糖油粑粑的味道混在一条街上。湘江把城市分成两半，橘子洲像一条船停在水中央。",
-    "bestSeason": "3 月至 5 月、9 月至 11 月",
-    "tags": [
-      "夜宵",
-      "湘菜",
-      "橘子洲",
-      "小吃"
-    ],
-    "spots": [
-      {
-        "name": "橘子洲",
-        "tip": "夏天有烟花时留意官方公告"
-      },
-      {
-        "name": "岳麓山",
-        "tip": "爬上山到爱晚亭，秋天看红叶"
-      },
-      {
-        "name": "文和友",
-        "tip": "夜宵排队，早点取号"
-      }
-    ]
-  }
+ "code": 0,
+ "message": "ok",
+ "data": {
+  "id": "changsha",
+  "name": "长沙",
+  "province": "湖南省",
+  "summary": "湘江边的辣与夜宵烟火。",
+  "food": "口味虾配啤酒；臭豆腐外脆内嫩；糖油粑粑甜糯；米粉店早上就排队。",
+  "spot": "橘子洲、岳麓山、文和友",
+  "thumb": "img/thumb/changsha.png",
+  "cover": "img/changsha.jpg",
+  "hot": false,
+  "intro": "长沙是一座“越夜越热闹”的城市：凌晨两点，五一广场附近还在排队买奶茶、吃小龙虾、听街头唱歌。它的娱乐业发达，湖南卫视、脱口秀、livehouse 都在这里。\n\n白天它又有另一面：岳麓山下的岳麓书院是千年学府，橘子洲头望着湘江，湖南省博物馆里躺着马王堆的辛追夫人和素纱襌衣。\n\n长沙人吃东西重口：臭豆腐要外脆内嫩，口味虾要辣得冒汗，剁椒鱼头要鲜辣，糖油粑粑要甜糯。吃完再去喝一杯茶颜悦色，是标准流程。\n\n一天的建议：上午岳麓山 + 岳麓书院，中午吃米粉或剁椒鱼头，下午湖南省博物馆，傍晚橘子洲散步，夜里太平街和坡子街吃小吃。",
+  "bestSeason": "3 月至 5 月、9 月至 11 月",
+  "tags": [
+   "夜宵",
+   "湘菜",
+   "橘子洲",
+   "小吃"
+  ],
+  "spots": [
+   {
+    "name": "橘子洲",
+    "tip": "夏天有烟花时留意官方公告"
+   },
+   {
+    "name": "岳麓山",
+    "tip": "爬上山到爱晚亭，秋天看红叶"
+   },
+   {
+    "name": "文和友",
+    "tip": "夜宵排队，早点取号"
+   }
+  ],
+  "gallery": [
+   {
+    "url": "img/city/changsha_1.jpg",
+    "caption": "橘子洲与湘江两岸"
+   },
+   {
+    "url": "img/city/changsha_2.jpg",
+    "caption": "岳麓山下的爱晚亭与红叶"
+   },
+   {
+    "url": "img/city/changsha_3.jpg",
+    "caption": "太平街的青石板与老字号"
+   }
+  ],
+  "foods": [
+   {
+    "name": "臭豆腐",
+    "image": "img/food/changsha_1.jpg",
+    "desc": "黑色方豆腐炸到外壳鼓起，浇上辣椒汁与蒜水，闻着臭吃着香。",
+    "price": "人均 10 元",
+    "shop": "坡子街、太平街"
+   },
+   {
+    "name": "口味虾",
+    "image": "img/food/changsha_2.jpg",
+    "desc": "小龙虾用大量辣椒、紫苏、啤酒焖煮，戴上手套吃到停不下来。",
+    "price": "人均 80 元",
+    "shop": "夜宵大排档"
+   },
+   {
+    "name": "剁椒鱼头",
+    "image": "img/food/changsha_3.jpg",
+    "desc": "胖头鱼头铺满剁椒蒸熟，鲜辣下饭，最后用汤汁拌面。",
+    "price": "人均 70 元",
+    "shop": "湘菜馆"
+   },
+   {
+    "name": "糖油粑粑",
+    "image": "img/food/changsha_4.jpg",
+    "desc": "糯米团在糖油里滚到金黄，外脆内软，趁热吃最香。",
+    "price": "人均 8 元",
+    "shop": "街边小摊"
+   },
+   {
+    "name": "长沙米粉",
+    "image": "img/food/changsha_5.jpg",
+    "desc": "扁粉或圆粉配肉丝、酸豆角、剁椒，一碗下肚才算开工。",
+    "price": "人均 12 元",
+    "shop": "早餐米粉店"
+   },
+   {
+    "name": "湘西腊肉",
+    "image": "img/food/changsha_6.jpg",
+    "desc": "柴火熏出来的腊肉切片炒蒜苗，咸香浓郁，很下饭。",
+    "price": "人均 60 元",
+    "shop": "湘菜馆"
+   }
+  ],
+  "spotDetails": [
+   {
+    "name": "岳麓山",
+    "image": "img/spot/changsha_1.jpg",
+    "desc": "长沙的城市山林，爱晚亭、麓山寺、云麓宫一路向上，秋天红叶最美。",
+    "ticket": "免费（索道另收）",
+    "hours": "6:00-23:00",
+    "stay": "半天"
+   },
+   {
+    "name": "橘子洲",
+    "image": "img/spot/changsha_2.jpg",
+    "desc": "湘江中的长岛，青年毛泽东艺术雕塑在洲头，晚上有烟花时人很多。",
+    "ticket": "免费",
+    "hours": "全天开放",
+    "stay": "2 小时"
+   },
+   {
+    "name": "太平老街",
+    "image": "img/spot/changsha_3.jpg",
+    "desc": "保留清末民初格局的老街，贾谊故居、老字号与小吃混在一起。",
+    "ticket": "免费",
+    "hours": "全天开放",
+    "stay": "1.5 小时"
+   },
+   {
+    "name": "湖南省博物馆",
+    "image": "img/spot/changsha_4.jpg",
+    "desc": "马王堆汉墓陈列是核心，素纱襌衣、T 形帛画都在这里。",
+    "ticket": "免费（需预约）",
+    "hours": "9:00-17:00，周一闭馆",
+    "stay": "3 小时"
+   },
+   {
+    "name": "天心阁",
+    "image": "img/spot/changsha_5.jpg",
+    "desc": "长沙古城墙仅存的一段，登阁可以看老城屋顶。",
+    "ticket": "32 元",
+    "hours": "8:00-17:30",
+    "stay": "1 小时"
+   },
+   {
+    "name": "火宫殿",
+    "image": "img/spot/changsha_6.jpg",
+    "desc": "坡子街的老字号，臭豆腐、姊妹团子、龙脂猪血一次吃全。",
+    "ticket": "人均 50 元",
+    "hours": "10:00-21:00",
+    "stay": "1 小时"
+   }
+  ]
+ }
 }
